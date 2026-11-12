@@ -1,0 +1,21 @@
+Ayesha Khan
+Junior Data Analyst
+
+SUMMARY
+Motivated computer science student interested in data analysis and machine learning. Strong problem solving and communication skills.
+
+EDUCATION
+BS Computer Science, Example University, 2023-2027
+
+SKILLS
+Python, SQL, Excel, pandas, NumPy, data analysis, machine learning, Git, communication, teamwork
+
+PROJECTS
+Student Performance Analysis
+Used Python, pandas and data visualization to explore student performance data and present findings.
+
+Resume Matcher
+Built a small machine learning project using scikit-learn and TF-IDF to compare text documents.
+
+EXPERIENCE
+Academic project experience and team collaboration in university coursework.

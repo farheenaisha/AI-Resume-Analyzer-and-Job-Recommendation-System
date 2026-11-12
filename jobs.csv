@@ -1,0 +1,13 @@
+id,title,company,area,level,description,skills,preferred_skills
+1,Junior Python Developer,CodeSpring,Software Development,Entry Level,"Build and test Python applications, work with APIs, Git and databases.","python, sql, git, rest api","flask, docker"
+2,Frontend Developer Intern,PixelNest,Web Development,Internship,Create responsive web pages using HTML CSS JavaScript and React.,"html, css, javascript, react","git, react"
+3,Data Analyst Intern,InsightWorks,Data Analytics,Internship,"Clean datasets, analyze trends and create reports using Python SQL and visualization.","python, sql, pandas, excel, data visualization","statistics, power bi"
+4,Machine Learning Intern,NeuralPath,Artificial Intelligence,Internship,Prepare datasets and experiment with machine learning models using Python and scikit-learn.,"python, machine learning, pandas, scikit-learn","numpy, deep learning, statistics"
+5,QA Engineer Trainee,QualityLoop,Software Testing,Entry Level,"Write test cases, report defects and automate basic tests.","testing, python, selenium, problem solving","git, selenium"
+6,Backend Developer Intern,ServerSide,Software Development,Internship,Develop backend features and REST APIs with Node.js or Python and SQL.,"python, node.js, sql, rest api","flask, mysql, git"
+7,UI Developer,DesignStack,Web Development,Entry Level,Implement accessible user interfaces and collaborate with designers.,"html, css, javascript, communication","react, git"
+8,Database Assistant,DataHarbor,Data Management,Entry Level,"Maintain relational databases, write SQL queries and validate records.","sql, mysql, sqlite, problem solving","mysql, python"
+9,BI Analyst Intern,VisualMetrics,Data Analytics,Internship,Create dashboards and business reports with Excel and Power BI.,"excel, power bi, data visualization, sql","tableau, statistics"
+10,Java Developer Trainee,ByteBridge,Software Development,Entry Level,Develop object-oriented Java applications and debug software.,"java, git, sql, problem solving","oop, testing"
+11,Cloud Support Intern,CloudLane,Cloud Computing,Internship,"Assist with cloud deployments, Linux environments and basic AWS services.","aws, linux, git, communication","docker, python"
+12,Project Coordinator Intern,LaunchPad,Project Management,Internship,"Track project tasks, prepare updates and coordinate team communication.","project management, excel, communication, teamwork","problem solving, teamwork"
